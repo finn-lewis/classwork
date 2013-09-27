@@ -17,7 +17,8 @@ If you are new to Linux, you may also want to see this [Linux guide](https://doc
 
 We'll be doing this problem in class.  Right below this prompt,
 write a sentence of your choice, and then check that in to your local
-git repository:
+git repository: 
+Today was a fun day!
 
     git commit -a -m 'Answering question 0'
 
