@@ -18,7 +18,8 @@ If you are new to Linux, you may also want to see this [Linux guide](https://doc
 We'll be doing this problem in class.  Right below this prompt,
 write a sentence of your choice, and then check that in to your local
 git repository: 
-Today was a fun day! I am happy to be learning how to code.
+Today was a fun day! I am happy to be learning how to code.g
+
 
     git commit -a -m 'Answering question 0'
 
@@ -27,6 +28,7 @@ Proceed to push that to your remote git repository on github.
     git push
 
 Write your sentence here:
+Today is Saturday and I'm going to go for a bike ride.
 
 
 
