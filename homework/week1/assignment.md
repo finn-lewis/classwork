@@ -29,6 +29,8 @@ Proceed to push that to your remote git repository on github.
 
 Write your sentence here:
 Today is Saturday and I'm going to go for a bike ride.
+Today is Tuesday, I like using Sublime Text 2 but I'm having a problem uploading an image
+into it.
 
 
 
@@ -52,15 +54,7 @@ cheat yourself.
 Put a screenshot of your solution to the third level in this directory
 under the name 'manufactoria.png' (or whatever image format you
 prefer).  The third level in particular is a LOT trickier than the
-first two, so don't be surprised if it takes longer.
-
-Manufactoria
-
-image src="file:///Users/Narwhal/Desktop/manufactoria.png">
-
-git commit -a -m 'Answering question 1'
-
-git push
+first two, so don't be surprised if it takes long.
 
 
 
