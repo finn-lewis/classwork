@@ -54,6 +54,23 @@ under the name 'manufactoria.png' (or whatever image format you
 prefer).  The third level in particular is a LOT trickier than the
 first two, so don't be surprised if it takes longer.
 
+Manufactoria
+
+image src="file:///Users/Narwhal/Desktop/manufactoria.png">
+
+git commit -a -m 'Answering question 1'
+
+git push
+
+
+
+
+
+
+
+
+
+
 
 ## 2. Low-level programming
 
