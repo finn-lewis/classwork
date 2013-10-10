@@ -18,7 +18,8 @@ If you are new to Linux, you may also want to see this [Linux guide](https://doc
 We'll be doing this problem in class.  Right below this prompt,
 write a sentence of your choice, and then check that in to your local
 git repository: 
-Today was a fun day! I am happy to be learning how to code.g
+
+The Asian elephants have different ears than the African elephants. 
 
 
     git commit -a -m 'Answering question 0'
@@ -27,10 +28,7 @@ Proceed to push that to your remote git repository on github.
 
     git push
 
-Write your sentence here:
-Today is Saturday and I'm going to go for a bike ride.
-Today is Tuesday, I like using Sublime Text 2 but I'm having a problem uploading an image
-into it.
+Write your sentence here: 
 
 
 
@@ -55,15 +53,6 @@ Put a screenshot of your solution to the third level in this directory
 under the name 'manufactoria.png' (or whatever image format you
 prefer).  The third level in particular is a LOT trickier than the
 first two, so don't be surprised if it takes long.
-
-
-
-
-
-
-
-
-
 
 
 ## 2. Low-level programming
