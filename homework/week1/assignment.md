@@ -29,6 +29,7 @@ Proceed to push that to your remote git repository on github.
     git push
 
 Write your sentence here: 
+It's fun to make lists in python.
 
 
 
